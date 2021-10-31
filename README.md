@@ -8,7 +8,7 @@
 
 Project's Video is below.
 
-<img src="images and video/3.mp4">
+<img src="images and video/3.gif">
 
 Project's pictures are below.
 
