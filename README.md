@@ -12,5 +12,5 @@ Project's Video is below.
 
 Project's pictures are below.
 
-<img src="images and video/1.png">
-<img src="images and video/2.png">
+<img src="images and video/1.jpg">
+<img src="images and video/2.jpg">
