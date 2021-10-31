@@ -1,5 +1,3 @@
-# Arduino-LED-Project
-
 # Used Parts
 
 -- Arduino Nano
